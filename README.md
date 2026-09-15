@@ -1,4 +1,9 @@
+<h1 align="center">Hello , This is Shresth Rohan</h1>
+<p align="center">
+  <img src= https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=C9D1D9&center=true&vCenter=true&width=700&height=60&lines=+%3E+Start+Debugging+The+Chaos;%3E+Code+Like+A+Menace;+%3E+If+It+Compiles%2C+It's++Staying;Just+Code+Nig alt="Typing SVG" />
+</p>
 
+<h3 align="center">Full Stack Developer| AI/ML | Data Science</h3>
 
 ### Tech Stack
 
