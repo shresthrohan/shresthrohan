@@ -1,6 +1,6 @@
 <h1 align="center">Hello , This is Shresth Rohan</h1>
 <p align="center">
-  <img src= https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=C9D1D9&center=true&vCenter=true&width=700&height=60&lines=+%3E+Start+Debugging+The+Chaos;%3E+Code+Like+A+Menace;+%3E+If+It+Compiles%2C+It's++Staying;Just+Code+Nig alt="Typing SVG" />
+  <img src= https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=C9D1D9&center=true&vCenter=true&width=700&height=60&lines=+%3E+Start+Debugging+The+Chaos;%3E+Code+Like+A+Menace;+%3E+If+It+Compiles%2C+It's++Staying;Just+Code+Bro alt="Typing SVG" />
 </p>
 
 <h3 align="center">Full Stack Developer| AI/ML | Data Science</h3>
@@ -19,7 +19,7 @@
     <img src="https://skillicons.dev/icons?i=gmail" height="45" />
   </a>
 </p>
-### Tech Stack
+<h2 align="center">💻 Tech Stack</h2>
 
 **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -38,7 +38,6 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
 
----
 
 <h2 align="center">📊 GitHub Stats</h2>
 
@@ -48,7 +47,6 @@
 
 </div>
 
----
 <h2 align="center">⌘ Commit Activity</h2>
 
 <picture>
@@ -61,7 +59,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/shresthrohan/shresthrohan/output/pacman-contribution-graph-dark.svg">
 </p>
----
+
 <h2 align="center">⌘ Philosophy</h2>
 
 <p align="center">
