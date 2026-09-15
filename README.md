@@ -4,7 +4,21 @@
 </p>
 
 <h3 align="center">Full Stack Developer| AI/ML | Data Science</h3>
+ <h2 align="center">🤝 Connect</h2>
 
+<p align="center">
+  <a href="https://github.com/shresthrohan">
+    <img src="https://skillicons.dev/icons?i=github" height="45" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:shresthrohan10183@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" />
+  </a>
+</p>
 ### Tech Stack
 
 **Languages**
@@ -26,13 +40,30 @@
 
 ---
 
-### GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?shresthrohan=shresthrohan&show_icons=true&theme=default&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shresthrohan&hide_border=true" height="165" />
-</p>
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=shresthrohan&theme=city_lights&hide_border=false&border_radius=5" height="150"/>
+
+</div>
 
 ---
+<h2 align="center">⌘ Commit Activity</h2>
 
-<p align="center"><i>Open to conversations on AI in finance, quant tooling, and data-driven products.</i></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/shresthrohan/shresthrohan/output/pacman-contribution-graph-dark.svg">
+
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/shresthrohan/shresthrohan/output/pacman-contribution-graph.svg">
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shresthrohan/shresthrohan/output/pacman-contribution-graph-dark.svg">
+</p>
+---
+<h2 align="center">⌘ Philosophy</h2>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote"/>
+</p>
