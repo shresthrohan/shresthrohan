@@ -6,7 +6,7 @@
   <img src= https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=C9D1D9&center=true&vCenter=true&width=700&height=60&lines=+%3E+Start+Debugging+The+Chaos;%3E+Code+Like+A+Menace;+%3E+If+It+Compiles%2C+It's++Staying;Just+Code+Bro alt="Typing SVG" />
 </p>
 
-<h3 align="center">Full Stack Developer| AI/ML | Data Science</h3>
+<h3 align="center">I'm a Computer Science (Data Science) student at VIT with a builder's mindset — I work across the full stack, from backend systems and databases to frontend interfaces, while specializing in AI/ML and data-driven problem solving. My primary focus right now is exploring how AI can be applied to financial systems — predictive models, intelligent automation, and data-driven decision tools. Outside of that, I'm genuinely passionate about game development, tinkering with mechanics and small projects just for the love of building interactive worlds.</h3>
  <h2 align="center">🤝 Connect</h2>
 
 <p align="center">
