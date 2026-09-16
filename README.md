@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/ascihand-removebg-preview.png" alt="Banner" width="100%">
+  <img src="./assets/asds.gif" alt="Banner" width="100%">
 </p>
 <h1 align="center">Hello , This is Shresth Rohan</h1>
 <p align="center">
